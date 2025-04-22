@@ -1,0 +1,148 @@
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Internet_Cafe.exe.config
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Internet_Cafe.exe
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Internet_Cafe.pdb
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmSatis.resources
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.Properties.Resources.resources
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.csproj.GenerateResource.cache
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.exe
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.pdb
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmMasaKapat.resources
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmKullanici.resources
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmSatislariListele.resources
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\EnvDTE.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\stdole.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmHareketRaporu.resources
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmSatisRaporu.resources
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\RdlCompile.cache
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\RdlCompile.compiled
+C:\Users\UMITARAS\source\repos\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.csproj.CopyComplete
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Internet_Cafe.exe.config
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Internet_Cafe.exe
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Internet_Cafe.pdb
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\EnvDTE.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.csproj.AssemblyReference.cache
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmHareketRaporu.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmKullanici.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmMasaKapat.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmSatis.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmSatislariListele.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.FrmSatisRaporu.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.Properties.Resources.resources
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.csproj.GenerateResource.cache
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet.72BEBC35.Up2Date
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.exe
+C:\Users\abdus\OneDrive\Masaüstü\Yeni klasör (2)\Internet_Cafe\Internet_Cafe\obj\Debug\Internet_Cafe.pdb

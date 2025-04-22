@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\internetcafedata2set.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\internetcafedata2set.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmsatislarilistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmsatislarilistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmsatisraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmsatisraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmmasakapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmmasakapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\internet_cafe_2dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\internet_cafe_2dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (2)\\internet_cafe\\internet_cafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmhareketraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmhareketraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (2)\\internet_cafe\\internet_cafe\\frmhareketraporu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmhareketraporu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmsatisraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmsatisraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\sqlservertypes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\sqlservertypes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\report2.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\report2.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\report1.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\report1.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmmasakapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmmasakapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\frmhareketraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\frmhareketraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\internetcafedata2set.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\internetcafedata2set.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\internetcafedata2set.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\internetcafedata2set.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\internet_cafe\\internetcafedata2set.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06C2CECF-C825-47B5-B5A7-4AD06ECB4A6F}|Internet_Cafe\\Internet_Cafe.csproj|solutionrelative:internet_cafe\\internetcafedata2set.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Kullanici.cs",
+              "RelativeToolTip": "Internet_Cafe\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:43:19.805Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmSatis.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatis.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmSatis.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatis.cs",
+              "RelativeToolTip": "Internet_Cafe\\FrmSatis.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:42:43.258Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InternetCafeData2Set.xsd",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\InternetCafeData2Set.xsd",
+              "RelativeDocumentMoniker": "Internet_Cafe\\InternetCafeData2Set.xsd",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\InternetCafeData2Set.xsd",
+              "RelativeToolTip": "Internet_Cafe\\InternetCafeData2Set.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-03-14T18:43:18.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSatislariListele.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatislariListele.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmSatislariListele.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatislariListele.cs [Design]",
+              "RelativeToolTip": "Internet_Cafe\\FrmSatislariListele.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:52:03.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmKullanici.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmKullanici.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmKullanici.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmKullanici.cs [Design]",
+              "RelativeToolTip": "Internet_Cafe\\FrmKullanici.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:20:24.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmSatis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatis.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmSatis.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatis.cs [Design]",
+              "RelativeToolTip": "Internet_Cafe\\FrmSatis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:20:25.976Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMasaKapat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmMasaKapat.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmMasaKapat.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmMasaKapat.cs [Design]",
+              "RelativeToolTip": "Internet_Cafe\\FrmMasaKapat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:42:34.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSatisRaporu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatisRaporu.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmSatisRaporu.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatisRaporu.cs [Design]",
+              "RelativeToolTip": "Internet_Cafe\\FrmSatisRaporu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:20:29.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Internet_cafe_2DataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Internet_cafe_2DataSet.xsd",
+              "RelativeDocumentMoniker": "Internet_Cafe\\Internet_cafe_2DataSet.xsd",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Internet_cafe_2DataSet.xsd",
+              "RelativeToolTip": "Internet_Cafe\\Internet_cafe_2DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-03-15T07:54:51.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\App.config",
+              "RelativeDocumentMoniker": "Internet_Cafe\\App.config",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\App.config",
+              "RelativeToolTip": "Internet_Cafe\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-20T07:50:54.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmHareketRaporu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmHareketRaporu.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmHareketRaporu.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmHareketRaporu.cs [Design]",
+              "RelativeToolTip": "Internet_Cafe\\FrmHareketRaporu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:42:24.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmSatisRaporu.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatisRaporu.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmSatisRaporu.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmSatisRaporu.cs",
+              "RelativeToolTip": "Internet_Cafe\\FrmSatisRaporu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:43:14.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmHareketRaporu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmHareketRaporu.Designer.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmHareketRaporu.Designer.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmHareketRaporu.Designer.cs",
+              "RelativeToolTip": "Internet_Cafe\\FrmHareketRaporu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:41:16.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\SqlServerTypes\\Loader.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\SqlServerTypes\\Loader.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\SqlServerTypes\\Loader.cs",
+              "RelativeToolTip": "Internet_Cafe\\SqlServerTypes\\Loader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:52:13.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\packages.config",
+              "RelativeDocumentMoniker": "Internet_Cafe\\packages.config",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\packages.config",
+              "RelativeToolTip": "Internet_Cafe\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-14T18:43:28.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Report2.rdlc",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Report2.rdlc",
+              "RelativeDocumentMoniker": "Internet_Cafe\\Report2.rdlc",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Report2.rdlc",
+              "RelativeToolTip": "Internet_Cafe\\Report2.rdlc",
+              "ViewState": "AgIAAG8CAAAAAAAAAAAewJMCAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-03-14T18:43:36.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Report1.rdlc",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Internet_Cafe\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Report1.rdlc",
+              "RelativeToolTip": "Internet_Cafe\\Report1.rdlc",
+              "ViewState": "AgIAAGMDAAAAAAAAAAAewIQDAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-03-14T18:43:34.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VeriTabani.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\VeriTabani.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\VeriTabani.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\VeriTabani.cs",
+              "RelativeToolTip": "Internet_Cafe\\VeriTabani.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:43:44.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Program.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\Program.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\Program.cs",
+              "RelativeToolTip": "Internet_Cafe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:43:26.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmMasaKapat.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmMasaKapat.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmMasaKapat.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmMasaKapat.cs",
+              "RelativeToolTip": "Internet_Cafe\\FrmMasaKapat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:42:36.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmKullanici.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmKullanici.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmKullanici.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmKullanici.cs",
+              "RelativeToolTip": "Internet_Cafe\\FrmKullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:42:30.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmHareketRaporu.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmHareketRaporu.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\FrmHareketRaporu.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\FrmHareketRaporu.cs",
+              "RelativeToolTip": "Internet_Cafe\\FrmHareketRaporu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:42:25.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InternetCafeData2Set.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\InternetCafeData2Set.Designer.cs",
+              "RelativeDocumentMoniker": "Internet_Cafe\\InternetCafeData2Set.Designer.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\InternetCafeData2Set.Designer.cs",
+              "RelativeToolTip": "Internet_Cafe\\InternetCafeData2Set.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:54:42.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InternetCafeData2Set.xsc",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\InternetCafeData2Set.xsc",
+              "RelativeDocumentMoniker": "Internet_Cafe\\InternetCafeData2Set.xsc",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\InternetCafeData2Set.xsc",
+              "RelativeToolTip": "Internet_Cafe\\InternetCafeData2Set.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-03-15T07:54:47.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InternetCafeData2Set.xss",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\InternetCafeData2Set.xss",
+              "RelativeDocumentMoniker": "Internet_Cafe\\InternetCafeData2Set.xss",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Internet_Cafe\\Internet_Cafe\\InternetCafeData2Set.xss",
+              "RelativeToolTip": "Internet_Cafe\\InternetCafeData2Set.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEVSURBVDhPlZI9coMwEIUfdIgm3CDmBmliaKl1Aah8hJwkTutU6biA7sA4jW\u002BA01PgzITVUG2KIGKJn8TfzI5Gb6UdvdUCK2itd0R0IiJ24qS13oGZPfeSgYj2dV0/VVWFsiytXJ7nSNMUcRy/WAlD27Z3TdPw4fDKl/ZzNvbPeyYi9t3L13Rd50ojX0NuzQJLKbG53\u002BBxu7Vy78cjzh9nKKXsAkTE13sAkFK60ohSChMLUsox/sOkwK1MCiilrPUvfAze5/xjKDRXLAxDwPyC6fgSSimrJ0mSoCiK30EiIs6yzB1XXtF/RhmAP/d0IcTsfPR9HwkhPCHEQxAEbzA9MM9zbbh6FEUX68DcL9yKt2RhSXe1b4wV0dNGMLxjAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-15T07:54:44.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
